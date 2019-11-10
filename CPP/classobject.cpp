@@ -1,4 +1,4 @@
-**//basic program on introduction to classes and object in c++**
+//basic program on introduction to classes and object in c++
 
 
 #include <iostream>
@@ -8,7 +8,7 @@ class myobjects
 	public:
 		void printSomething()
 		{
-			cout << "Rinkia k papa hihi haste" << endl;
+			cout << "Rinkia k papa hihi haste" << endl;  //:p
 			
 		}
 
